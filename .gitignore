@@ -24,7 +24,15 @@ True Crime/Movies/
 True Crime/Docs/
 True Crime/Data/
 True Crime/Backup/
-THPS2/
+THPS2/Extras/
+THPS2/Movies/
+THPS2/Music/
+THPS2/uninstall/
+*.PKR
+*.inf
+*.txt
+*.RTF
+*.CFG
 
 # External tool builders
 .externalToolBuilders/
